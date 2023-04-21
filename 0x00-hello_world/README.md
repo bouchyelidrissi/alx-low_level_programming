@@ -1,0 +1,3 @@
+Preprocessoring
+Compiling
+Assembling
